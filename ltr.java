@@ -6,7 +6,7 @@ public class ltr{
 	}
 	public static void main(String[] args){
 		ltr l=new ltr();
-		l.getAge();
-			
+		Int age=l.getAge();
+		System.out.println(age);
 
 }

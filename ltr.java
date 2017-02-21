@@ -7,6 +7,6 @@ public class ltr{
 	public static void main(String[] args){
 		ltr l=new ltr();
 		Int age=l.getAge();
-		System.out.println("age="+age);
+		System.out.println("The age="+age);
 		System.out.println("Message from home");
 }

@@ -1,6 +1,12 @@
 public class ltr{
 	private String name;
 	private Int age;
-
+	public Int getAge(){
+		return age;
+	}
+	public static void main(String[] args){
+		ltr l=new ltr();
+		l.getAge();
+			
 
 }
